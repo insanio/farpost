@@ -8,15 +8,15 @@
 * [order-24.ru](http://order-24.ru)
 * [novosibirsk.order-24.ru](http://novosibirsk.order-24.ru)
 * [daleto.ru](http://daleto.ru)
-* [uazerno.com](http://uazerno.com)
+* [karnaval.vl.ru](http://karnaval.vl.ru)
+* [ista.style](http://ista.style)
 * [buh-plus.ru](http://buh-plus.ru)
 * [sanmecrusher.ru](http://sanmecrusher.ru)
+* [uazerno.com](http://uazerno.com)
 * [ugteh.com](http://ugteh.com)
 * [trustauto.vl.ru](http://trustauto.vl.ru)
 * [ots-vl.ru](http://ots-vl.ru)
 * [glbsng.com](http://glbsng.com)
-* [ista.style](http://ista.style)
-* [karnaval.vl.ru](http://karnaval.vl.ru)
 * [hdes.ru](http://hdes.ru)
 * [rukipomoschi.ru](http://rukipomoschi.ru)
 * [jeleziaka27.ru](http://jeleziaka27.ru)
@@ -28,4 +28,5 @@
 
 # Код
 
-Код, который здесь представлен из реальных проектов.
+* код, который здесь представлен из реальных проектов
+* код отсортирован по технологиям
