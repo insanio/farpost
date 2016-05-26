@@ -1,0 +1,461 @@
+.landing
+{
+    margin-top: -111px;
+}
+
+.landing a, .landing a:hover
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.landing h1, .landing h2
+{
+    font-size: 430%;
+    font-weight: 600;
+}
+
+.landing h1
+{
+    color: #fff;
+}
+
+.landing h1 span
+{
+    font-size: 82%;
+}
+
+.block1
+{
+
+    height: 690px;
+    color: #fff;
+    padding-top: 130px;
+    margin-bottom: 70px;
+}
+
+.block1 .text
+{
+    font-size: 200%;
+}
+
+.block1 .tel
+{
+    margin-top: 90px;
+    font-size: 260%;
+    color: #fff;
+    background: url('../images/ico-tel.png') no-repeat left 85%;
+    padding-left: 62px;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 991px)
+{
+    .block1 .tel { margin-top: 0px }
+}
+
+.block1 .tel span
+{
+    font-size: 155%;
+    color: #8fbe18;
+    font-weight: 700;
+}
+
+@media (max-width: 991px)
+{
+    .block1 .mfeed { margin-bottom: 50px }
+}
+
+.block3
+{
+    color: #fff;
+    font-size: 114%;
+    margin-bottom: 70px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.block3 .block3-content-wrapper
+{
+    margin-bottom: 200px;
+}
+
+.block3 .step1
+{
+    height: 210px;
+}
+
+.block3 .step2
+{
+    height: 235px;
+}
+
+
+.block3 .layer2
+{
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    height: 540px;
+    margin-left: -1270px;
+}
+
+.block3 .text.blue
+{
+    margin-top: 20px;
+    font-size: 150%;
+    color: #3bbce0;
+    font-weight: 600;
+}
+
+.block3 .text.white
+{
+    font-size: 150%;
+    color: #fff;
+    font-weight: 600;
+    position: relative;
+}
+
+.block3 h2
+{
+    color: #fff;
+}
+
+.block3 .icons
+{
+    position: relative;
+}
+
+.block3 .icons .ico
+{
+    position: absolute;
+}
+
+.block3 .icons .ico-1
+{
+    top: 0px;
+    left: 0px;
+}
+
+.block3 .icons .arrow-1
+{
+    top: 0px;
+    left: 70px;
+    height: 120px;
+    width: 100px;
+}
+
+.block3 .icons .arrow-1 img, .block3 .icons .arrow-2 img, .block3 .icons .arrow-3 img, .block3 .icons .arrow-4 img
+{
+    max-width: 100%;
+    height: 100%;
+}
+
+.block3 .icons .ico-2
+{
+    top: 0px;
+    left: 190px;
+}
+
+.block3 .icons .arrow-2
+{
+    top: 0px;
+    left: 280px;
+    height: 120px;
+    width: 100px;
+}
+
+.block3 .icons .ico-3
+{
+    top: 0px;
+    left: 400px;
+}
+
+.block3 .icons .ico-4
+{
+    left: 0px;
+}
+
+.block3 .icons .arrow-3
+{
+    left: 100px;
+    height: 120px;
+    width: 70px;
+}
+
+.block3 .icons .ico-5
+{
+    left: 190px;
+}
+
+.block3 .icons .arrow-4
+{
+    left: 280px;
+    height: 120px;
+    width: 100px;
+}
+
+.block3 .icons .ico-6
+{
+    left: 400px;
+}
+
+.block3 .text.icons
+{
+    color: #666;
+    position: relative;
+    top: 120px;
+}
+
+.block3 .text.icons .text-1
+{
+    position: absolute;
+    left: 0;
+    width: 150px;
+}
+
+.block3 .text.icons .text-2
+{
+    position: absolute;
+    left: 190px;
+    width: 150px;
+}
+
+.block3 .text.icons .text-3
+{
+    position: absolute;
+    left: 400px;
+    width: 170px;
+}
+
+.block3 .text.icons-white .text-1
+{
+    position: absolute;
+    top: 440px;
+    left: 0;
+    width: 150px;
+}
+
+.block3 .text.icons-white .text-2
+{
+    position: absolute;
+    top: 440px;
+    left: 190px;
+    width: 150px;
+}
+
+.block3 .text.icons-white .text-3
+{
+    position: absolute;
+    top: 440px;
+    left: 400px;
+    width: 170px;
+}
+
+.landing .brands
+{
+    border: none;
+}
+
+.block3 .step3
+{
+    position: relative;
+    color: #fff;
+    font-size: 114%;
+    text-align: center;
+}
+
+.block3 .step3 .ico-1
+{
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    margin-left: -35px;
+}
+
+.block3 .step3 .text-1
+{
+    position: absolute;
+    top: 105px;
+    width: 100%;
+}
+
+.block3 .step3 .ico-2
+{
+    position: absolute;
+    top: 165px;
+    left: 50%;
+    margin-left: -35px;
+}
+
+.block3 .step3 .text-2
+{
+    position: absolute;
+    top: 240px;
+    width: 100%;
+}
+
+.block3 .step3 .ico-3
+{
+    position: absolute;
+    top: 350px;
+    left: 50%;
+    margin-left: -35px;
+}
+
+.block3 .step3 .text-3
+{
+    position: absolute;
+    top: 430px;
+    width: 100%;
+}
+
+.block4
+{
+    background: url('/contacts/images/bg4.png') no-repeat top center;
+    margin-top: -190px;
+    padding-top: 62px;
+    color: #333;
+    height: 470px;
+    margin-bottom: -100px;
+    position: relative;
+}
+
+.block4 .frame
+{
+    font-size: 114%;
+}
+
+.block4 span
+{
+    font-size: 150%;
+    font-weight: 700;
+}
+
+.block4 h2
+{
+    margin-bottom: 70px;
+}
+
+.block5
+{
+    color: #fff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.block5 .left-text
+{
+    margin-top: 100px;
+}
+
+@media (max-width: 991px)
+{
+    .block5 .left-text { margin-top: 20px }
+}
+
+.block5 .left-text p
+{
+    font-size: 171%;
+    font-weight: 600;
+}
+
+.block5 .arrow
+{
+    margin-top: 150px;
+}
+
+.block6
+{
+    position: relative;
+    height: 600px;
+}
+
+.block6 .contacts
+{
+    padding: 45px 40px;
+    background: #fff;
+    position: absolute;
+    top: 70px;
+    z-index: 5;
+}
+
+@media (max-width: 991px)
+{
+    .block6 .contacts-sm { margin: 30px 0 50px; }
+    .block6 .contacts-sm p, .block6 .contacts-sm address { font-size: 200%; }
+    .block6 {height: auto}
+}
+
+.block6 .map
+{
+    position: relative;
+    top:0;
+    width: 100%;
+    height: 600px;
+}
+
+.block6 .tel
+{
+    margin-top: 45px;
+    font-size: 171%;
+    color: #666;
+    background: url('../images/ico-tel.png') no-repeat left 85%;
+    padding-left: 62px;
+}
+
+.block6 .tel span
+{
+    font-size: 200%;
+    color: #8fbe18;
+    font-weight: 700;
+}
+
+.block6 .tel a, .block6 .tel a:hover
+{
+    color: #666;
+    text-decoration: none;
+}
+
+
+.block7
+{
+    background: #e5e5e5;
+    padding: 70px 0px;
+    color: #666;
+    margin-bottom: -50px;
+}
+
+.block7 h1
+{
+    color: #3bbce0;
+    margin-bottom: 50px;
+}
+
+.block7 .lead
+{
+    color: #666;
+    font-size: 128% !important;
+    font-style: normal;
+}
+
+.block4 .frame
+{
+    position: absolute;
+}
+
+.landing .block3 a
+{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.landing .block3 a:hover
+{
+    opacity: 0.75;
+}
+
+.block3 .visible-sm-block img, .block4 .visible-sm-block img
+{
+    max-width: 100%;
+}
